@@ -1,0 +1,17 @@
+# SABIDO
+
+## ABAIGAR
+
+### NARAHA
+
+---
+
+1. NUMBER 1
+   - BULLET
+     - INDENT BULLET
+
+THE **QUICK BROWN** FOX JUMPS OVER THE `LAZY DOG`
+
+```bash
+git init
+```
