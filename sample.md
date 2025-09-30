@@ -11,3 +11,7 @@
      - INDENT BULLET
 
 THE **QUICK BROWN** FOX JUMPS OVER THE `LAZY DOG`
+
+```javascipt
+    console.log("hello")
+```
